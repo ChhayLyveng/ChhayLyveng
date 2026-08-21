@@ -27,11 +27,17 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 ### Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhxOW5qcTBkejZiaHNndWRxNXo2bzh1OHNneDl6enp5NW45am9nNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="35">
 
 ###### Machine Learning & Data Science:
-![Numpy](https://img.shields.io/badge/numpy-%230db7ed.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/matplotlib-%46E3B7.svg?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;
-![Seaborn](https://img.shields.io/badge/seaborn-6DA55F?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
-![Sklearn](https://img.shields.io/badge/-sklearn-%23Clojure?style=for-the-badge&logo=sklearn&logoColor=white)&nbsp;
-![PyTorch](https://img.shields.io/badge/pytorch-%23E34F26.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 <!-- #### ML/DL -->
 
 ###### Database Management:
