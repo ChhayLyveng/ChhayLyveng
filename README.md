@@ -11,9 +11,12 @@ I'm a third-year Data Science student at the [Institute of Technology of Cambodi
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG12d3VucWJsZGp1cWo4bGlsaDZrNTVvMmlwZGZ0dnZnMWhweTlxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7budMRwZvNGJ3pyE/giphy.gif" width="25"> Currently, I'm learning
 - *Applied Mathematics*
+- *Statistic Analysis*
 - *Machine Learning*
+- *Data Science*
 - *Data Analysis*
 - *Database*
+- *AI*
 
 
 ### Contact Me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtoMHc2dnQyandhZHQwbmd0djVqc2xwcHJnOXpudmc5NHgzaGNlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vVegyymxA90fkY8jkE/giphy.gif" width="25" >
