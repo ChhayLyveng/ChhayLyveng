@@ -7,7 +7,7 @@
 
 <img align="right" width="30%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNqN3JraTlrNGd3NWlyNzh4b25jemVmY2g1bmh3M2xzcjV0c2V3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Fb7Mi0prBC/giphy.gif">
 
-I'm a third-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/).
+I'm a fourth-year Data Science student at the [Institute of Technology of Cambodia](https://itc.edu.kh/).
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aG12d3VucWJsZGp1cWo4bGlsaDZrNTVvMmlwZGZ0dnZnMWhweTlxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7budMRwZvNGJ3pyE/giphy.gif" width="25"> Currently, I'm learning
 - *Applied Mathematics*
